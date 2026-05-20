@@ -1,3 +1,4 @@
+#leetcode 121
 def maxProfit(prices):
     buy, sell = 0, 1
     maxP = 0
