@@ -8,9 +8,7 @@
 
 #Output: true
 
-#Explanation:
-
-#The element 1 occurs at the indices 0 and 3.
+#Explanation: The element 1 occurs at the indices 0 and 3.
 
 
 def containsDuplicate(nums):
